@@ -3,5 +3,5 @@
     $area = $width * $height * $vertical;
     print "体積は".$area."です.";
   } 
-  getTriangleArea(5,10,8);
+  getTriangleArea(5,10,8); 
 ?>
